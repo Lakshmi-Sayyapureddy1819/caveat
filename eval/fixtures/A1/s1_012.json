@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "arm": "A1",
+    "label": "The pressure is 15 PSI.",
+    "sample_rate": 16000,
+    "speech_model": "universal-3-5-pro",
+    "config": {},
+    "recorded_at": "2026-09-06T07:47:10Z"
+  },
+  "messages": [
+    {
+      "type": "Begin",
+      "id": "4cedc281-cc9e-4ddf-90be-49b14f122429",
+      "expires_at": 1788691622,
+      "configuration": {
+        "model": "universal-3-5-pro",
+        "mode": "balanced",
+        "api_version": "2025-05-12",
+        "speaker_labels": false,
+        "redact_pii": false,
+        "filter_profanity": false,
+        "domain": null,
+        "voice_focus": null
+      },
+      "_recv_ms": 1453.9
+    },
+    {
+      "type": "SpeechStarted",
+      "timestamp": 32,
+      "confidence": 0.963594,
+      "_recv_ms": 2876.8
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 32,
+          "end": 1184,
+          "text": "The",
+          "confidence": 0.963594,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 2877.1
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The pressure is 15 psi.",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 32,
+          "end": 390,
+          "text": "The",
+          "confidence": 0.983682,
+          "word_is_final": false
+        },
+        {
+          "start": 413,
+          "end": 1369,
+          "text": "pressure",
+          "confidence": 0.999886,
+          "word_is_final": false
+        },
+        {
+          "start": 1392,
+          "end": 1631,
+          "text": "is",
+          "confidence": 0.999907,
+          "word_is_final": false
+        },
+        {
+          "start": 1654,
+          "end": 1893,
+          "text": "15",
+          "confidence": 0.999714,
+          "word_is_final": false
+        },
+        {
+          "start": 1916,
+          "end": 2394,
+          "text": "psi.",
+          "confidence": 0.805848,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 4245.4
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": true,
+      "transcript": "The pressure is 15 psi.",
+      "end_of_turn_confidence": 1.0,
+      "words": [
+        {
+          "start": 32,
+          "end": 555,
+          "text": "The",
+          "confidence": 0.981042,
+          "word_is_final": true
+        },
+        {
+          "start": 589,
+          "end": 1985,
+          "text": "pressure",
+          "confidence": 0.999923,
+          "word_is_final": true
+        },
+        {
+          "start": 2019,
+          "end": 2368,
+          "text": "is",
+          "confidence": 0.999906,
+          "word_is_final": true
+        },
+        {
+          "start": 2402,
+          "end": 2751,
+          "text": "15",
+          "confidence": 0.999813,
+          "word_is_final": true
+        },
+        {
+          "start": 2785,
+          "end": 3483,
+          "text": "psi.",
+          "confidence": 0.720183,
+          "word_is_final": true
+        }
+      ],
+      "utterance": "The pressure is 15 psi.",
+      "type": "Turn",
+      "_recv_ms": 5176.3
+    },
+    {
+      "type": "Termination",
+      "audio_duration_seconds": 6,
+      "session_duration_seconds": 7,
+      "_recv_ms": 8029.4
+    }
+  ]
+}

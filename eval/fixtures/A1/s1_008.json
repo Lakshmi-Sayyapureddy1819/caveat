@@ -1,0 +1,634 @@
+{
+  "meta": {
+    "arm": "A1",
+    "label": "The torque was definitely 45 Nm.",
+    "sample_rate": 16000,
+    "speech_model": "universal-3-5-pro",
+    "config": {},
+    "recorded_at": "2026-09-06T07:46:38Z"
+  },
+  "messages": [
+    {
+      "type": "Begin",
+      "id": "33f99630-e9d0-49d0-8d39-a875efbea495",
+      "expires_at": 1788691590,
+      "configuration": {
+        "model": "universal-3-5-pro",
+        "mode": "balanced",
+        "api_version": "2025-05-12",
+        "speaker_labels": false,
+        "redact_pii": false,
+        "filter_profanity": false,
+        "domain": null,
+        "voice_focus": null
+      },
+      "_recv_ms": 1481.3
+    },
+    {
+      "type": "SpeechStarted",
+      "timestamp": 0,
+      "confidence": 0.593099,
+      "_recv_ms": 2550.8
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "Let the art",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 255,
+          "text": "Let",
+          "confidence": 0.825458,
+          "word_is_final": false
+        },
+        {
+          "start": 272,
+          "end": 527,
+          "text": "the",
+          "confidence": 0.61988,
+          "word_is_final": false
+        },
+        {
+          "start": 544,
+          "end": 799,
+          "text": "art",
+          "confidence": 0.333957,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 2551.4
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "Let the art quest",
+      "end_of_turn_confidence": 0.1,
+      "words": [
+        {
+          "start": 0,
+          "end": 387,
+          "text": "Let",
+          "confidence": 0.782203,
+          "word_is_final": false
+        },
+        {
+          "start": 412,
+          "end": 799,
+          "text": "the",
+          "confidence": 0.975209,
+          "word_is_final": false
+        },
+        {
+          "start": 824,
+          "end": 1211,
+          "text": "art",
+          "confidence": 0.821715,
+          "word_is_final": false
+        },
+        {
+          "start": 1236,
+          "end": 1882,
+          "text": "quest",
+          "confidence": 0.521957,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 3598.5
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "Let the art quest",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 427,
+          "text": "Let",
+          "confidence": 0.69592,
+          "word_is_final": false
+        },
+        {
+          "start": 455,
+          "end": 882,
+          "text": "the",
+          "confidence": 0.962991,
+          "word_is_final": false
+        },
+        {
+          "start": 910,
+          "end": 1337,
+          "text": "art",
+          "confidence": 0.796429,
+          "word_is_final": false
+        },
+        {
+          "start": 1365,
+          "end": 2077,
+          "text": "quest",
+          "confidence": 0.483533,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 3731.2
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "But the art was definitely fortified.",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 299,
+          "text": "But",
+          "confidence": 0.664087,
+          "word_is_final": false
+        },
+        {
+          "start": 318,
+          "end": 617,
+          "text": "the",
+          "confidence": 0.988955,
+          "word_is_final": false
+        },
+        {
+          "start": 636,
+          "end": 935,
+          "text": "art",
+          "confidence": 0.859246,
+          "word_is_final": false
+        },
+        {
+          "start": 954,
+          "end": 1253,
+          "text": "was",
+          "confidence": 0.531123,
+          "word_is_final": false
+        },
+        {
+          "start": 1272,
+          "end": 2270,
+          "text": "definitely",
+          "confidence": 0.998348,
+          "word_is_final": false
+        },
+        {
+          "start": 2289,
+          "end": 3287,
+          "text": "fortified.",
+          "confidence": 0.760158,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5025.9
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "But the art course, definitely 45 NM.",
+      "end_of_turn_confidence": 0.25,
+      "words": [
+        {
+          "start": 0,
+          "end": 372,
+          "text": "But",
+          "confidence": 0.523885,
+          "word_is_final": false
+        },
+        {
+          "start": 396,
+          "end": 768,
+          "text": "the",
+          "confidence": 0.984426,
+          "word_is_final": false
+        },
+        {
+          "start": 792,
+          "end": 1164,
+          "text": "art",
+          "confidence": 0.67902,
+          "word_is_final": false
+        },
+        {
+          "start": 1188,
+          "end": 2057,
+          "text": "course,",
+          "confidence": 0.589439,
+          "word_is_final": false
+        },
+        {
+          "start": 2081,
+          "end": 3323,
+          "text": "definitely",
+          "confidence": 0.999849,
+          "word_is_final": false
+        },
+        {
+          "start": 3347,
+          "end": 3595,
+          "text": "45",
+          "confidence": 0.989261,
+          "word_is_final": false
+        },
+        {
+          "start": 3619,
+          "end": 3991,
+          "text": "NM.",
+          "confidence": 0.654441,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5728.0
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "But the art quest, definitely 45 NM.",
+      "end_of_turn_confidence": 0.3,
+      "words": [
+        {
+          "start": 0,
+          "end": 440,
+          "text": "But",
+          "confidence": 0.524316,
+          "word_is_final": false
+        },
+        {
+          "start": 469,
+          "end": 909,
+          "text": "the",
+          "confidence": 0.989062,
+          "word_is_final": false
+        },
+        {
+          "start": 938,
+          "end": 1378,
+          "text": "art",
+          "confidence": 0.758083,
+          "word_is_final": false
+        },
+        {
+          "start": 1407,
+          "end": 2287,
+          "text": "quest,",
+          "confidence": 0.563478,
+          "word_is_final": false
+        },
+        {
+          "start": 2316,
+          "end": 3782,
+          "text": "definitely",
+          "confidence": 0.99983,
+          "word_is_final": false
+        },
+        {
+          "start": 3811,
+          "end": 4104,
+          "text": "45",
+          "confidence": 0.992372,
+          "word_is_final": false
+        },
+        {
+          "start": 4133,
+          "end": 4573,
+          "text": "NM.",
+          "confidence": 0.916631,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6326.9
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "But the art quest, definitely 45 NM.",
+      "end_of_turn_confidence": 0.45,
+      "words": [
+        {
+          "start": 0,
+          "end": 440,
+          "text": "But",
+          "confidence": 0.524316,
+          "word_is_final": false
+        },
+        {
+          "start": 469,
+          "end": 909,
+          "text": "the",
+          "confidence": 0.989062,
+          "word_is_final": false
+        },
+        {
+          "start": 938,
+          "end": 1378,
+          "text": "art",
+          "confidence": 0.758083,
+          "word_is_final": false
+        },
+        {
+          "start": 1407,
+          "end": 2287,
+          "text": "quest,",
+          "confidence": 0.563478,
+          "word_is_final": false
+        },
+        {
+          "start": 2316,
+          "end": 3782,
+          "text": "definitely",
+          "confidence": 0.99983,
+          "word_is_final": false
+        },
+        {
+          "start": 3811,
+          "end": 4104,
+          "text": "45",
+          "confidence": 0.992372,
+          "word_is_final": false
+        },
+        {
+          "start": 4133,
+          "end": 4573,
+          "text": "NM.",
+          "confidence": 0.916631,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6578.4
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "But the art quest, definitely 45 NM.",
+      "end_of_turn_confidence": 0.6,
+      "words": [
+        {
+          "start": 0,
+          "end": 440,
+          "text": "But",
+          "confidence": 0.524316,
+          "word_is_final": false
+        },
+        {
+          "start": 469,
+          "end": 909,
+          "text": "the",
+          "confidence": 0.989062,
+          "word_is_final": false
+        },
+        {
+          "start": 938,
+          "end": 1378,
+          "text": "art",
+          "confidence": 0.758083,
+          "word_is_final": false
+        },
+        {
+          "start": 1407,
+          "end": 2287,
+          "text": "quest,",
+          "confidence": 0.563478,
+          "word_is_final": false
+        },
+        {
+          "start": 2316,
+          "end": 3782,
+          "text": "definitely",
+          "confidence": 0.99983,
+          "word_is_final": false
+        },
+        {
+          "start": 3811,
+          "end": 4104,
+          "text": "45",
+          "confidence": 0.992372,
+          "word_is_final": false
+        },
+        {
+          "start": 4133,
+          "end": 4573,
+          "text": "NM.",
+          "confidence": 0.916631,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6743.9
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "But the art quest, definitely 45 NM.",
+      "end_of_turn_confidence": 0.75,
+      "words": [
+        {
+          "start": 0,
+          "end": 440,
+          "text": "But",
+          "confidence": 0.524316,
+          "word_is_final": false
+        },
+        {
+          "start": 469,
+          "end": 909,
+          "text": "the",
+          "confidence": 0.989062,
+          "word_is_final": false
+        },
+        {
+          "start": 938,
+          "end": 1378,
+          "text": "art",
+          "confidence": 0.758083,
+          "word_is_final": false
+        },
+        {
+          "start": 1407,
+          "end": 2287,
+          "text": "quest,",
+          "confidence": 0.563478,
+          "word_is_final": false
+        },
+        {
+          "start": 2316,
+          "end": 3782,
+          "text": "definitely",
+          "confidence": 0.99983,
+          "word_is_final": false
+        },
+        {
+          "start": 3811,
+          "end": 4104,
+          "text": "45",
+          "confidence": 0.992372,
+          "word_is_final": false
+        },
+        {
+          "start": 4133,
+          "end": 4573,
+          "text": "NM.",
+          "confidence": 0.916631,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6929.0
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "But the art quest, definitely 45 NM.",
+      "end_of_turn_confidence": 0.925,
+      "words": [
+        {
+          "start": 0,
+          "end": 440,
+          "text": "But",
+          "confidence": 0.524316,
+          "word_is_final": false
+        },
+        {
+          "start": 469,
+          "end": 909,
+          "text": "the",
+          "confidence": 0.989062,
+          "word_is_final": false
+        },
+        {
+          "start": 938,
+          "end": 1378,
+          "text": "art",
+          "confidence": 0.758083,
+          "word_is_final": false
+        },
+        {
+          "start": 1407,
+          "end": 2287,
+          "text": "quest,",
+          "confidence": 0.563478,
+          "word_is_final": false
+        },
+        {
+          "start": 2316,
+          "end": 3782,
+          "text": "definitely",
+          "confidence": 0.99983,
+          "word_is_final": false
+        },
+        {
+          "start": 3811,
+          "end": 4104,
+          "text": "45",
+          "confidence": 0.992372,
+          "word_is_final": false
+        },
+        {
+          "start": 4133,
+          "end": 4573,
+          "text": "NM.",
+          "confidence": 0.916631,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 7128.0
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": true,
+      "transcript": "But the art quest, definitely 45 NM.",
+      "end_of_turn_confidence": 1.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 547,
+          "text": "But",
+          "confidence": 0.53122,
+          "word_is_final": true
+        },
+        {
+          "start": 583,
+          "end": 1130,
+          "text": "the",
+          "confidence": 0.98872,
+          "word_is_final": true
+        },
+        {
+          "start": 1166,
+          "end": 1713,
+          "text": "art",
+          "confidence": 0.725654,
+          "word_is_final": true
+        },
+        {
+          "start": 1749,
+          "end": 2844,
+          "text": "quest,",
+          "confidence": 0.504329,
+          "word_is_final": true
+        },
+        {
+          "start": 2880,
+          "end": 4705,
+          "text": "definitely",
+          "confidence": 0.999834,
+          "word_is_final": true
+        },
+        {
+          "start": 4741,
+          "end": 5106,
+          "text": "45",
+          "confidence": 0.99307,
+          "word_is_final": true
+        },
+        {
+          "start": 5142,
+          "end": 5689,
+          "text": "NM.",
+          "confidence": 0.901523,
+          "word_is_final": true
+        }
+      ],
+      "utterance": "But the art quest, definitely 45 NM.",
+      "type": "Turn",
+      "_recv_ms": 7363.6
+    },
+    {
+      "type": "Termination",
+      "audio_duration_seconds": 6,
+      "session_duration_seconds": 7,
+      "_recv_ms": 8012.8
+    }
+  ]
+}

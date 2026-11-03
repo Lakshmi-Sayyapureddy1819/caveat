@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "arm": "SELFTEST",
+    "label": "pressure_plain",
+    "WARNING": "synthetic confidences \u2014 not AssemblyAI output"
+  },
+  "messages": [
+    {
+      "type": "Turn",
+      "turn_order": 37,
+      "end_of_turn": true,
+      "turn_is_formatted": false,
+      "transcript": "The pressure is 80 PSI",
+      "utterance": "The pressure is 80 PSI",
+      "end_of_turn_confidence": 0.94,
+      "words": [
+        {
+          "text": "The",
+          "start": 8000,
+          "end": 8380,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "pressure",
+          "start": 8420,
+          "end": 9000,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "is",
+          "start": 9040,
+          "end": 9380,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "80",
+          "start": 9420,
+          "end": 9760,
+          "confidence": 0.95,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "PSI",
+          "start": 9800,
+          "end": 10180,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        }
+      ]
+    }
+  ]
+}

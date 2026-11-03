@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "arm": "A1",
+    "label": "Unit P-207 is back online.",
+    "sample_rate": 16000,
+    "speech_model": "universal-3-5-pro",
+    "config": {},
+    "recorded_at": "2026-09-06T07:47:45Z"
+  },
+  "messages": [
+    {
+      "type": "Begin",
+      "id": "dc75292f-512e-4964-a3fa-a14573f9636e",
+      "expires_at": 1788691657,
+      "configuration": {
+        "model": "universal-3-5-pro",
+        "mode": "balanced",
+        "api_version": "2025-05-12",
+        "speaker_labels": false,
+        "redact_pii": false,
+        "filter_profanity": false,
+        "domain": null,
+        "voice_focus": null
+      },
+      "_recv_ms": 1419.1
+    },
+    {
+      "type": "SpeechStarted",
+      "timestamp": 832,
+      "confidence": 0.559714,
+      "_recv_ms": 3752.4
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "See?",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 832,
+          "end": 1984,
+          "text": "See?",
+          "confidence": 0.559714,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 3752.8
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "See, you",
+      "end_of_turn_confidence": 0.175,
+      "words": [
+        {
+          "start": 832,
+          "end": 2147,
+          "text": "See,",
+          "confidence": 0.766285,
+          "word_is_final": false
+        },
+        {
+          "start": 2212,
+          "end": 3198,
+          "text": "you",
+          "confidence": 0.999788,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 4857.7
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "See, you",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 832,
+          "end": 2254,
+          "text": "See,",
+          "confidence": 0.639659,
+          "word_is_final": false
+        },
+        {
+          "start": 2325,
+          "end": 3391,
+          "text": "you",
+          "confidence": 0.999765,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5054.5
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "Say you unit P",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 832,
+          "end": 1775,
+          "text": "Say",
+          "confidence": 0.579885,
+          "word_is_final": false
+        },
+        {
+          "start": 1837,
+          "end": 2780,
+          "text": "you",
+          "confidence": 0.817927,
+          "word_is_final": false
+        },
+        {
+          "start": 2842,
+          "end": 4099,
+          "text": "unit",
+          "confidence": 0.749197,
+          "word_is_final": false
+        },
+        {
+          "start": 4161,
+          "end": 4475,
+          "text": "P",
+          "confidence": 0.959595,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6254.9
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "Say you unit PG207.",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 832,
+          "end": 1711,
+          "text": "Say",
+          "confidence": 0.549803,
+          "word_is_final": false
+        },
+        {
+          "start": 1769,
+          "end": 2648,
+          "text": "you",
+          "confidence": 0.753837,
+          "word_is_final": false
+        },
+        {
+          "start": 2706,
+          "end": 3878,
+          "text": "unit",
+          "confidence": 0.796836,
+          "word_is_final": false
+        },
+        {
+          "start": 3936,
+          "end": 5694,
+          "text": "PG207.",
+          "confidence": 0.793789,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 7452.6
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": true,
+      "transcript": "\u0938\u0947 \u092f\u0942 \u092f\u0942\u0928\u093f\u091f \u092a\u0940\u091c\u0940 207 \u0907\u0938",
+      "end_of_turn_confidence": 1.0,
+      "words": [
+        {
+          "start": 832,
+          "end": 1376,
+          "text": "\u0938\u0947",
+          "confidence": 0.701458,
+          "word_is_final": true
+        },
+        {
+          "start": 1430,
+          "end": 1974,
+          "text": "\u092f\u0942",
+          "confidence": 0.956308,
+          "word_is_final": true
+        },
+        {
+          "start": 2028,
+          "end": 3388,
+          "text": "\u092f\u0942\u0928\u093f\u091f",
+          "confidence": 0.981534,
+          "word_is_final": true
+        },
+        {
+          "start": 3442,
+          "end": 4530,
+          "text": "\u092a\u0940\u091c\u0940",
+          "confidence": 0.969276,
+          "word_is_final": true
+        },
+        {
+          "start": 4584,
+          "end": 5400,
+          "text": "207",
+          "confidence": 0.997859,
+          "word_is_final": true
+        },
+        {
+          "start": 5454,
+          "end": 5998,
+          "text": "\u0907\u0938",
+          "confidence": 0.59484,
+          "word_is_final": true
+        }
+      ],
+      "utterance": "\u0938\u0947 \u092f\u0942 \u092f\u0942\u0928\u093f\u091f \u092a\u0940\u091c\u0940 207 \u0907\u0938",
+      "type": "Turn",
+      "_recv_ms": 7901.1
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "arm": "A1",
+    "label": "The torque was about 45 Nm.",
+    "sample_rate": 16000,
+    "speech_model": "universal-3-5-pro",
+    "config": {},
+    "recorded_at": "2026-09-06T07:46:02Z"
+  },
+  "messages": [
+    {
+      "type": "Begin",
+      "id": "f6f9b65f-4f42-4e9a-95fa-f21a30263a22",
+      "expires_at": 1788691556,
+      "configuration": {
+        "model": "universal-3-5-pro",
+        "mode": "balanced",
+        "api_version": "2025-05-12",
+        "speaker_labels": false,
+        "redact_pii": false,
+        "filter_profanity": false,
+        "domain": null,
+        "voice_focus": null
+      },
+      "_recv_ms": 4079.1
+    },
+    {
+      "type": "SpeechStarted",
+      "timestamp": 0,
+      "confidence": 0.803616,
+      "_recv_ms": 4247.6
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "about.",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 800,
+          "text": "about.",
+          "confidence": 0.803616,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 4248.0
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": true,
+      "transcript": "about 45 nm.",
+      "end_of_turn_confidence": 1.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 1092,
+          "text": "about",
+          "confidence": 0.922485,
+          "word_is_final": true
+        },
+        {
+          "start": 1135,
+          "end": 1571,
+          "text": "45",
+          "confidence": 0.998628,
+          "word_is_final": true
+        },
+        {
+          "start": 1614,
+          "end": 2269,
+          "text": "nm.",
+          "confidence": 0.88914,
+          "word_is_final": true
+        }
+      ],
+      "utterance": "about 45 nm.",
+      "type": "Turn",
+      "_recv_ms": 4392.7
+    },
+    {
+      "type": "Termination",
+      "audio_duration_seconds": 6,
+      "session_duration_seconds": 4,
+      "_recv_ms": 8035.9
+    }
+  ]
+}

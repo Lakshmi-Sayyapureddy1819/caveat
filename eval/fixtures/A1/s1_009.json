@@ -1,0 +1,299 @@
+{
+  "meta": {
+    "arm": "A1",
+    "label": "The torque was... 45 Nm.",
+    "sample_rate": 16000,
+    "speech_model": "universal-3-5-pro",
+    "config": {},
+    "recorded_at": "2026-09-06T07:46:47Z"
+  },
+  "messages": [
+    {
+      "type": "Begin",
+      "id": "237eed29-ecbd-4bd5-a5ef-5cbd540cb585",
+      "expires_at": 1788691598,
+      "configuration": {
+        "model": "universal-3-5-pro",
+        "mode": "balanced",
+        "api_version": "2025-05-12",
+        "speaker_labels": false,
+        "redact_pii": false,
+        "filter_profanity": false,
+        "domain": null,
+        "voice_focus": null
+      },
+      "_recv_ms": 1421.5
+    },
+    {
+      "type": "SpeechStarted",
+      "timestamp": 736,
+      "confidence": 0.585192,
+      "_recv_ms": 3698.6
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "Let's",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 736,
+          "end": 1984,
+          "text": "Let's",
+          "confidence": 0.585192,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 3699.0
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The torque",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 736,
+          "end": 1236,
+          "text": "The",
+          "confidence": 0.587277,
+          "word_is_final": false
+        },
+        {
+          "start": 1269,
+          "end": 2270,
+          "text": "torque",
+          "confidence": 0.993698,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 4042.6
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The torque was",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 736,
+          "end": 1425,
+          "text": "The",
+          "confidence": 0.734048,
+          "word_is_final": false
+        },
+        {
+          "start": 1470,
+          "end": 2848,
+          "text": "torque",
+          "confidence": 0.999892,
+          "word_is_final": false
+        },
+        {
+          "start": 2893,
+          "end": 3582,
+          "text": "was",
+          "confidence": 0.999685,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5293.3
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The torque was for",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 736,
+          "end": 1320,
+          "text": "The",
+          "confidence": 0.747455,
+          "word_is_final": false
+        },
+        {
+          "start": 1358,
+          "end": 2527,
+          "text": "torque",
+          "confidence": 0.999857,
+          "word_is_final": false
+        },
+        {
+          "start": 2565,
+          "end": 3149,
+          "text": "was",
+          "confidence": 0.998906,
+          "word_is_final": false
+        },
+        {
+          "start": 3187,
+          "end": 3771,
+          "text": "for",
+          "confidence": 0.529428,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5466.4
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The torque was 45 nm.",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 736,
+          "end": 1420,
+          "text": "The",
+          "confidence": 0.893236,
+          "word_is_final": false
+        },
+        {
+          "start": 1465,
+          "end": 2834,
+          "text": "torque",
+          "confidence": 0.999956,
+          "word_is_final": false
+        },
+        {
+          "start": 2879,
+          "end": 3563,
+          "text": "was",
+          "confidence": 0.999914,
+          "word_is_final": false
+        },
+        {
+          "start": 3608,
+          "end": 4064,
+          "text": "45",
+          "confidence": 0.958257,
+          "word_is_final": false
+        },
+        {
+          "start": 4109,
+          "end": 4793,
+          "text": "nm.",
+          "confidence": 0.644985,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6753.8
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The torque was 45 Nm.",
+      "end_of_turn_confidence": 0.225,
+      "words": [
+        {
+          "start": 736,
+          "end": 1588,
+          "text": "The",
+          "confidence": 0.920502,
+          "word_is_final": false
+        },
+        {
+          "start": 1644,
+          "end": 3348,
+          "text": "torque",
+          "confidence": 0.999963,
+          "word_is_final": false
+        },
+        {
+          "start": 3404,
+          "end": 4256,
+          "text": "was",
+          "confidence": 0.999928,
+          "word_is_final": false
+        },
+        {
+          "start": 4312,
+          "end": 4880,
+          "text": "45",
+          "confidence": 0.998853,
+          "word_is_final": false
+        },
+        {
+          "start": 4936,
+          "end": 5788,
+          "text": "Nm.",
+          "confidence": 0.926124,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 7443.8
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": true,
+      "transcript": "The torque was 45 Nm.",
+      "end_of_turn_confidence": 1.0,
+      "words": [
+        {
+          "start": 736,
+          "end": 1623,
+          "text": "The",
+          "confidence": 0.933945,
+          "word_is_final": true
+        },
+        {
+          "start": 1682,
+          "end": 3456,
+          "text": "torque",
+          "confidence": 0.999947,
+          "word_is_final": true
+        },
+        {
+          "start": 3515,
+          "end": 4402,
+          "text": "was",
+          "confidence": 0.999894,
+          "word_is_final": true
+        },
+        {
+          "start": 4461,
+          "end": 5052,
+          "text": "45",
+          "confidence": 0.998173,
+          "word_is_final": true
+        },
+        {
+          "start": 5111,
+          "end": 5998,
+          "text": "Nm.",
+          "confidence": 0.922071,
+          "word_is_final": true
+        }
+      ],
+      "utterance": "The torque was 45 Nm.",
+      "type": "Turn",
+      "_recv_ms": 7700.6
+    },
+    {
+      "type": "Termination",
+      "audio_duration_seconds": 6,
+      "session_duration_seconds": 7,
+      "_recv_ms": 8569.1
+    }
+  ]
+}

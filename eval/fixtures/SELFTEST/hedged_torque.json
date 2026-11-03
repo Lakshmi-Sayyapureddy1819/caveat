@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "arm": "SELFTEST",
+    "label": "hedged_torque",
+    "WARNING": "synthetic confidences \u2014 not AssemblyAI output"
+  },
+  "messages": [
+    {
+      "type": "Turn",
+      "turn_order": 37,
+      "end_of_turn": true,
+      "turn_is_formatted": false,
+      "transcript": "I think the torque was 45 Nm",
+      "utterance": "I think the torque was 45 Nm",
+      "end_of_turn_confidence": 0.94,
+      "words": [
+        {
+          "text": "I",
+          "start": 8000,
+          "end": 8300,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "think",
+          "start": 8340,
+          "end": 8800,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "the",
+          "start": 8840,
+          "end": 9220,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "torque",
+          "start": 9260,
+          "end": 9760,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "was",
+          "start": 9800,
+          "end": 10180,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "45",
+          "start": 10220,
+          "end": 10560,
+          "confidence": 0.94,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "Nm",
+          "start": 10600,
+          "end": 10940,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        }
+      ]
+    }
+  ]
+}

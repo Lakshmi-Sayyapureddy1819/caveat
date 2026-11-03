@@ -1,0 +1,495 @@
+{
+  "meta": {
+    "arm": "A1",
+    "label": "The serial number is A-140.",
+    "sample_rate": 16000,
+    "speech_model": "universal-3-5-pro",
+    "config": {},
+    "recorded_at": "2026-09-06T07:46:29Z"
+  },
+  "messages": [
+    {
+      "type": "Begin",
+      "id": "e7e2f9cc-6720-47df-99c7-914593b12210",
+      "expires_at": 1788691581,
+      "configuration": {
+        "model": "universal-3-5-pro",
+        "mode": "balanced",
+        "api_version": "2025-05-12",
+        "speaker_labels": false,
+        "redact_pii": false,
+        "filter_profanity": false,
+        "domain": null,
+        "voice_focus": null
+      },
+      "_recv_ms": 1651.1
+    },
+    {
+      "type": "SpeechStarted",
+      "timestamp": 0,
+      "confidence": 0.507045,
+      "_recv_ms": 2658.6
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "Desiree Lambert.",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 368,
+          "text": "Desiree",
+          "confidence": 0.517889,
+          "word_is_final": false
+        },
+        {
+          "start": 378,
+          "end": 799,
+          "text": "Lambert.",
+          "confidence": 0.4962,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 2659.1
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is A40 and",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 248,
+          "text": "The",
+          "confidence": 0.957127,
+          "word_is_final": false
+        },
+        {
+          "start": 264,
+          "end": 760,
+          "text": "serial",
+          "confidence": 0.999812,
+          "word_is_final": false
+        },
+        {
+          "start": 776,
+          "end": 1272,
+          "text": "number",
+          "confidence": 0.999814,
+          "word_is_final": false
+        },
+        {
+          "start": 1288,
+          "end": 1453,
+          "text": "is",
+          "confidence": 0.999723,
+          "word_is_final": false
+        },
+        {
+          "start": 1469,
+          "end": 1717,
+          "text": "A40",
+          "confidence": 0.991939,
+          "word_is_final": false
+        },
+        {
+          "start": 1733,
+          "end": 1981,
+          "text": "and",
+          "confidence": 0.521231,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 3810.4
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "\u0915\u093e \u0938\u0940\u0930\u093f\u092f\u0932 \u0928\u0902\u092c\u0930 \u0907\u0938 \u090f \u092b\u094b\u0930\u094d\u091f\u0940 \u0914\u0930 \u0935\u0928 \u092b\u094b\u0930\u094d\u091f\u0940",
+      "end_of_turn_confidence": 0.45,
+      "words": [
+        {
+          "start": 0,
+          "end": 208,
+          "text": "\u0915\u093e",
+          "confidence": 0.719233,
+          "word_is_final": false
+        },
+        {
+          "start": 228,
+          "end": 852,
+          "text": "\u0938\u0940\u0930\u093f\u092f\u0932",
+          "confidence": 0.996797,
+          "word_is_final": false
+        },
+        {
+          "start": 872,
+          "end": 1288,
+          "text": "\u0928\u0902\u092c\u0930",
+          "confidence": 0.989868,
+          "word_is_final": false
+        },
+        {
+          "start": 1308,
+          "end": 1516,
+          "text": "\u0907\u0938",
+          "confidence": 0.743352,
+          "word_is_final": false
+        },
+        {
+          "start": 1536,
+          "end": 1640,
+          "text": "\u090f",
+          "confidence": 0.354938,
+          "word_is_final": false
+        },
+        {
+          "start": 1660,
+          "end": 2284,
+          "text": "\u092b\u094b\u0930\u094d\u091f\u0940",
+          "confidence": 0.847348,
+          "word_is_final": false
+        },
+        {
+          "start": 2304,
+          "end": 2512,
+          "text": "\u0914\u0930",
+          "confidence": 0.545029,
+          "word_is_final": false
+        },
+        {
+          "start": 2532,
+          "end": 2740,
+          "text": "\u0935\u0928",
+          "confidence": 0.976865,
+          "word_is_final": false
+        },
+        {
+          "start": 2760,
+          "end": 3384,
+          "text": "\u092b\u094b\u0930\u094d\u091f\u0940",
+          "confidence": 0.97297,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5411.7
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "\u0915\u093e \u0938\u0940\u0930\u093f\u092f\u0932 \u0928\u0902\u092c\u0930 \u0907\u0938 \u090f \u092b\u094b\u0930\u094d\u091f\u0940 \u0914\u0930 \u0935\u0928 \u092b\u094b\u0930\u094d\u091f\u0940",
+      "end_of_turn_confidence": 0.625,
+      "words": [
+        {
+          "start": 0,
+          "end": 208,
+          "text": "\u0915\u093e",
+          "confidence": 0.719233,
+          "word_is_final": false
+        },
+        {
+          "start": 228,
+          "end": 852,
+          "text": "\u0938\u0940\u0930\u093f\u092f\u0932",
+          "confidence": 0.996797,
+          "word_is_final": false
+        },
+        {
+          "start": 872,
+          "end": 1288,
+          "text": "\u0928\u0902\u092c\u0930",
+          "confidence": 0.989868,
+          "word_is_final": false
+        },
+        {
+          "start": 1308,
+          "end": 1516,
+          "text": "\u0907\u0938",
+          "confidence": 0.743352,
+          "word_is_final": false
+        },
+        {
+          "start": 1536,
+          "end": 1640,
+          "text": "\u090f",
+          "confidence": 0.354938,
+          "word_is_final": false
+        },
+        {
+          "start": 1660,
+          "end": 2284,
+          "text": "\u092b\u094b\u0930\u094d\u091f\u0940",
+          "confidence": 0.847348,
+          "word_is_final": false
+        },
+        {
+          "start": 2304,
+          "end": 2512,
+          "text": "\u0914\u0930",
+          "confidence": 0.545029,
+          "word_is_final": false
+        },
+        {
+          "start": 2532,
+          "end": 2740,
+          "text": "\u0935\u0928",
+          "confidence": 0.976865,
+          "word_is_final": false
+        },
+        {
+          "start": 2760,
+          "end": 3384,
+          "text": "\u092b\u094b\u0930\u094d\u091f\u0940",
+          "confidence": 0.97297,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5612.8
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "\u0915\u093e \u0938\u0940\u0930\u093f\u092f\u0932 \u0928\u0902\u092c\u0930 \u0907\u0938 \u090f \u092b\u094b\u0930\u094d\u091f\u0940 \u0914\u0930 \u0935\u0928 \u092b\u094b\u0930\u094d\u091f\u0940",
+      "end_of_turn_confidence": 0.775,
+      "words": [
+        {
+          "start": 0,
+          "end": 208,
+          "text": "\u0915\u093e",
+          "confidence": 0.719233,
+          "word_is_final": false
+        },
+        {
+          "start": 228,
+          "end": 852,
+          "text": "\u0938\u0940\u0930\u093f\u092f\u0932",
+          "confidence": 0.996797,
+          "word_is_final": false
+        },
+        {
+          "start": 872,
+          "end": 1288,
+          "text": "\u0928\u0902\u092c\u0930",
+          "confidence": 0.989868,
+          "word_is_final": false
+        },
+        {
+          "start": 1308,
+          "end": 1516,
+          "text": "\u0907\u0938",
+          "confidence": 0.743352,
+          "word_is_final": false
+        },
+        {
+          "start": 1536,
+          "end": 1640,
+          "text": "\u090f",
+          "confidence": 0.354938,
+          "word_is_final": false
+        },
+        {
+          "start": 1660,
+          "end": 2284,
+          "text": "\u092b\u094b\u0930\u094d\u091f\u0940",
+          "confidence": 0.847348,
+          "word_is_final": false
+        },
+        {
+          "start": 2304,
+          "end": 2512,
+          "text": "\u0914\u0930",
+          "confidence": 0.545029,
+          "word_is_final": false
+        },
+        {
+          "start": 2532,
+          "end": 2740,
+          "text": "\u0935\u0928",
+          "confidence": 0.976865,
+          "word_is_final": false
+        },
+        {
+          "start": 2760,
+          "end": 3384,
+          "text": "\u092b\u094b\u0930\u094d\u091f\u0940",
+          "confidence": 0.97297,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5810.0
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "\u0915\u093e \u0938\u0940\u0930\u093f\u092f\u0932 \u0928\u0902\u092c\u0930 \u0907\u0938 \u090f \u092b\u094b\u0930\u094d\u091f\u0940 \u0914\u0930 \u0935\u0928 \u092b\u094b\u0930\u094d\u091f\u0940",
+      "end_of_turn_confidence": 0.925,
+      "words": [
+        {
+          "start": 0,
+          "end": 208,
+          "text": "\u0915\u093e",
+          "confidence": 0.719233,
+          "word_is_final": false
+        },
+        {
+          "start": 228,
+          "end": 852,
+          "text": "\u0938\u0940\u0930\u093f\u092f\u0932",
+          "confidence": 0.996797,
+          "word_is_final": false
+        },
+        {
+          "start": 872,
+          "end": 1288,
+          "text": "\u0928\u0902\u092c\u0930",
+          "confidence": 0.989868,
+          "word_is_final": false
+        },
+        {
+          "start": 1308,
+          "end": 1516,
+          "text": "\u0907\u0938",
+          "confidence": 0.743352,
+          "word_is_final": false
+        },
+        {
+          "start": 1536,
+          "end": 1640,
+          "text": "\u090f",
+          "confidence": 0.354938,
+          "word_is_final": false
+        },
+        {
+          "start": 1660,
+          "end": 2284,
+          "text": "\u092b\u094b\u0930\u094d\u091f\u0940",
+          "confidence": 0.847348,
+          "word_is_final": false
+        },
+        {
+          "start": 2304,
+          "end": 2512,
+          "text": "\u0914\u0930",
+          "confidence": 0.545029,
+          "word_is_final": false
+        },
+        {
+          "start": 2532,
+          "end": 2740,
+          "text": "\u0935\u0928",
+          "confidence": 0.976865,
+          "word_is_final": false
+        },
+        {
+          "start": 2760,
+          "end": 3384,
+          "text": "\u092b\u094b\u0930\u094d\u091f\u0940",
+          "confidence": 0.97297,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6044.8
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": true,
+      "transcript": "\u0915\u093e \u0938\u0940\u0930\u093f\u092f\u0932 \u0928\u0902\u092c\u0930 \u0907\u0938 \u090f \u092b\u094b\u0930\u094d\u091f\u0940 \u0914\u0930 \u0935\u0928 \u092b\u094b\u0930\u094d\u091f\u0940",
+      "end_of_turn_confidence": 1.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 274,
+          "text": "\u0915\u093e",
+          "confidence": 0.730213,
+          "word_is_final": true
+        },
+        {
+          "start": 301,
+          "end": 1125,
+          "text": "\u0938\u0940\u0930\u093f\u092f\u0932",
+          "confidence": 0.996982,
+          "word_is_final": true
+        },
+        {
+          "start": 1152,
+          "end": 1701,
+          "text": "\u0928\u0902\u092c\u0930",
+          "confidence": 0.991479,
+          "word_is_final": true
+        },
+        {
+          "start": 1728,
+          "end": 2002,
+          "text": "\u0907\u0938",
+          "confidence": 0.770298,
+          "word_is_final": true
+        },
+        {
+          "start": 2029,
+          "end": 2166,
+          "text": "\u090f",
+          "confidence": 0.377233,
+          "word_is_final": true
+        },
+        {
+          "start": 2193,
+          "end": 3017,
+          "text": "\u092b\u094b\u0930\u094d\u091f\u0940",
+          "confidence": 0.853452,
+          "word_is_final": true
+        },
+        {
+          "start": 3044,
+          "end": 3318,
+          "text": "\u0914\u0930",
+          "confidence": 0.541444,
+          "word_is_final": true
+        },
+        {
+          "start": 3345,
+          "end": 3619,
+          "text": "\u0935\u0928",
+          "confidence": 0.975024,
+          "word_is_final": true
+        },
+        {
+          "start": 3646,
+          "end": 4470,
+          "text": "\u092b\u094b\u0930\u094d\u091f\u0940",
+          "confidence": 0.967436,
+          "word_is_final": true
+        }
+      ],
+      "utterance": "\u0915\u093e \u0938\u0940\u0930\u093f\u092f\u0932 \u0928\u0902\u092c\u0930 \u0907\u0938 \u090f \u092b\u094b\u0930\u094d\u091f\u0940 \u0914\u0930 \u0935\u0928 \u092b\u094b\u0930\u094d\u091f\u0940",
+      "type": "Turn",
+      "_recv_ms": 6214.6
+    },
+    {
+      "type": "Termination",
+      "audio_duration_seconds": 6,
+      "session_duration_seconds": 6,
+      "_recv_ms": 8067.8
+    }
+  ]
+}

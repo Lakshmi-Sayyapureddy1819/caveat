@@ -1,0 +1,402 @@
+{
+  "meta": {
+    "arm": "A1",
+    "label": "The serial number is A-104.",
+    "sample_rate": 16000,
+    "speech_model": "universal-3-5-pro",
+    "config": {},
+    "recorded_at": "2026-09-06T07:46:20Z"
+  },
+  "messages": [
+    {
+      "type": "Begin",
+      "id": "f8aeb9a5-c277-48a7-8ede-3cfc1c38c10c",
+      "expires_at": 1788691572,
+      "configuration": {
+        "model": "universal-3-5-pro",
+        "mode": "balanced",
+        "api_version": "2025-05-12",
+        "speaker_labels": false,
+        "redact_pii": false,
+        "filter_profanity": false,
+        "domain": null,
+        "voice_focus": null
+      },
+      "_recv_ms": 1382.7
+    },
+    {
+      "type": "SpeechStarted",
+      "timestamp": 0,
+      "confidence": 0.787819,
+      "_recv_ms": 2479.9
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "Let's see here.",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 298,
+          "text": "Let's",
+          "confidence": 0.848312,
+          "word_is_final": false
+        },
+        {
+          "start": 309,
+          "end": 488,
+          "text": "see",
+          "confidence": 0.921617,
+          "word_is_final": false
+        },
+        {
+          "start": 499,
+          "end": 797,
+          "text": "here.",
+          "confidence": 0.593529,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 2480.1
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is A1.",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 286,
+          "text": "The",
+          "confidence": 0.997466,
+          "word_is_final": false
+        },
+        {
+          "start": 305,
+          "end": 877,
+          "text": "serial",
+          "confidence": 0.999898,
+          "word_is_final": false
+        },
+        {
+          "start": 896,
+          "end": 1468,
+          "text": "number",
+          "confidence": 0.999922,
+          "word_is_final": false
+        },
+        {
+          "start": 1487,
+          "end": 1677,
+          "text": "is",
+          "confidence": 0.999497,
+          "word_is_final": false
+        },
+        {
+          "start": 1696,
+          "end": 1982,
+          "text": "A1.",
+          "confidence": 0.547912,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 3734.8
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is A104.",
+      "end_of_turn_confidence": 0.275,
+      "words": [
+        {
+          "start": 0,
+          "end": 421,
+          "text": "The",
+          "confidence": 0.991637,
+          "word_is_final": false
+        },
+        {
+          "start": 449,
+          "end": 1291,
+          "text": "serial",
+          "confidence": 0.999821,
+          "word_is_final": false
+        },
+        {
+          "start": 1319,
+          "end": 2161,
+          "text": "number",
+          "confidence": 0.999901,
+          "word_is_final": false
+        },
+        {
+          "start": 2189,
+          "end": 2469,
+          "text": "is",
+          "confidence": 0.999801,
+          "word_is_final": false
+        },
+        {
+          "start": 2497,
+          "end": 3198,
+          "text": "A104.",
+          "confidence": 0.993642,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 4930.4
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is A104.",
+      "end_of_turn_confidence": 0.425,
+      "words": [
+        {
+          "start": 0,
+          "end": 421,
+          "text": "The",
+          "confidence": 0.991637,
+          "word_is_final": false
+        },
+        {
+          "start": 449,
+          "end": 1291,
+          "text": "serial",
+          "confidence": 0.999821,
+          "word_is_final": false
+        },
+        {
+          "start": 1319,
+          "end": 2161,
+          "text": "number",
+          "confidence": 0.999901,
+          "word_is_final": false
+        },
+        {
+          "start": 2189,
+          "end": 2469,
+          "text": "is",
+          "confidence": 0.999801,
+          "word_is_final": false
+        },
+        {
+          "start": 2497,
+          "end": 3198,
+          "text": "A104.",
+          "confidence": 0.993642,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5220.3
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is A104.",
+      "end_of_turn_confidence": 0.575,
+      "words": [
+        {
+          "start": 0,
+          "end": 421,
+          "text": "The",
+          "confidence": 0.991637,
+          "word_is_final": false
+        },
+        {
+          "start": 449,
+          "end": 1291,
+          "text": "serial",
+          "confidence": 0.999821,
+          "word_is_final": false
+        },
+        {
+          "start": 1319,
+          "end": 2161,
+          "text": "number",
+          "confidence": 0.999901,
+          "word_is_final": false
+        },
+        {
+          "start": 2189,
+          "end": 2469,
+          "text": "is",
+          "confidence": 0.999801,
+          "word_is_final": false
+        },
+        {
+          "start": 2497,
+          "end": 3198,
+          "text": "A104.",
+          "confidence": 0.993642,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5333.7
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is A104.",
+      "end_of_turn_confidence": 0.75,
+      "words": [
+        {
+          "start": 0,
+          "end": 421,
+          "text": "The",
+          "confidence": 0.991637,
+          "word_is_final": false
+        },
+        {
+          "start": 449,
+          "end": 1291,
+          "text": "serial",
+          "confidence": 0.999821,
+          "word_is_final": false
+        },
+        {
+          "start": 1319,
+          "end": 2161,
+          "text": "number",
+          "confidence": 0.999901,
+          "word_is_final": false
+        },
+        {
+          "start": 2189,
+          "end": 2469,
+          "text": "is",
+          "confidence": 0.999801,
+          "word_is_final": false
+        },
+        {
+          "start": 2497,
+          "end": 3198,
+          "text": "A104.",
+          "confidence": 0.993642,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5584.4
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is A104.",
+      "end_of_turn_confidence": 0.9,
+      "words": [
+        {
+          "start": 0,
+          "end": 421,
+          "text": "The",
+          "confidence": 0.991637,
+          "word_is_final": false
+        },
+        {
+          "start": 449,
+          "end": 1291,
+          "text": "serial",
+          "confidence": 0.999821,
+          "word_is_final": false
+        },
+        {
+          "start": 1319,
+          "end": 2161,
+          "text": "number",
+          "confidence": 0.999901,
+          "word_is_final": false
+        },
+        {
+          "start": 2189,
+          "end": 2469,
+          "text": "is",
+          "confidence": 0.999801,
+          "word_is_final": false
+        },
+        {
+          "start": 2497,
+          "end": 3198,
+          "text": "A104.",
+          "confidence": 0.993642,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5743.9
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": true,
+      "transcript": "The serial number is A104.",
+      "end_of_turn_confidence": 1.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 568,
+          "text": "The",
+          "confidence": 0.988525,
+          "word_is_final": true
+        },
+        {
+          "start": 605,
+          "end": 1741,
+          "text": "serial",
+          "confidence": 0.999824,
+          "word_is_final": true
+        },
+        {
+          "start": 1778,
+          "end": 2914,
+          "text": "number",
+          "confidence": 0.999931,
+          "word_is_final": true
+        },
+        {
+          "start": 2951,
+          "end": 3329,
+          "text": "is",
+          "confidence": 0.99984,
+          "word_is_final": true
+        },
+        {
+          "start": 3366,
+          "end": 4313,
+          "text": "A104.",
+          "confidence": 0.991104,
+          "word_is_final": true
+        }
+      ],
+      "utterance": "The serial number is A104.",
+      "type": "Turn",
+      "_recv_ms": 6004.9
+    },
+    {
+      "type": "Termination",
+      "audio_duration_seconds": 6,
+      "session_duration_seconds": 7,
+      "_recv_ms": 8057.1
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "arm": "SELFTEST",
+    "label": "pressure_hedged",
+    "WARNING": "synthetic confidences \u2014 not AssemblyAI output"
+  },
+  "messages": [
+    {
+      "type": "Turn",
+      "turn_order": 37,
+      "end_of_turn": true,
+      "turn_is_formatted": false,
+      "transcript": "I believe the pressure is 80 PSI",
+      "utterance": "I believe the pressure is 80 PSI",
+      "end_of_turn_confidence": 0.94,
+      "words": [
+        {
+          "text": "I",
+          "start": 8000,
+          "end": 8300,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "believe",
+          "start": 8340,
+          "end": 8880,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "the",
+          "start": 8920,
+          "end": 9300,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "pressure",
+          "start": 9340,
+          "end": 9920,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "is",
+          "start": 9960,
+          "end": 10300,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "80",
+          "start": 10340,
+          "end": 10680,
+          "confidence": 0.95,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "PSI",
+          "start": 10720,
+          "end": 11100,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        }
+      ]
+    }
+  ]
+}

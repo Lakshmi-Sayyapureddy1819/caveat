@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "arm": "A1",
+    "label": "Torque 55 Nm on unit P-208.",
+    "sample_rate": 16000,
+    "speech_model": "universal-3-5-pro",
+    "config": {},
+    "recorded_at": "2026-09-06T07:48:17Z"
+  },
+  "messages": [
+    {
+      "type": "Begin",
+      "id": "3df0d1a4-ef4b-45ba-b907-0eba9d5ff979",
+      "expires_at": 1788691689,
+      "configuration": {
+        "model": "universal-3-5-pro",
+        "mode": "balanced",
+        "api_version": "2025-05-12",
+        "speaker_labels": false,
+        "redact_pii": false,
+        "filter_profanity": false,
+        "domain": null,
+        "voice_focus": null
+      },
+      "_recv_ms": 1427.7
+    },
+    {
+      "type": "SpeechStarted",
+      "timestamp": 0,
+      "confidence": 0.846154,
+      "_recv_ms": 2471.6
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The dark",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 333,
+          "text": "The",
+          "confidence": 0.748362,
+          "word_is_final": false
+        },
+        {
+          "start": 355,
+          "end": 799,
+          "text": "dark",
+          "confidence": 0.943945,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 3254.8
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "Torque 55 Nm.",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 993,
+          "text": "Torque",
+          "confidence": 0.772557,
+          "word_is_final": false
+        },
+        {
+          "start": 1026,
+          "end": 1357,
+          "text": "55",
+          "confidence": 0.999743,
+          "word_is_final": false
+        },
+        {
+          "start": 1390,
+          "end": 1886,
+          "text": "Nm.",
+          "confidence": 0.95807,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 3697.5
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The torque 55 Nm on unit P is to",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 375,
+          "text": "The",
+          "confidence": 0.660172,
+          "word_is_final": false
+        },
+        {
+          "start": 400,
+          "end": 1150,
+          "text": "torque",
+          "confidence": 0.999742,
+          "word_is_final": false
+        },
+        {
+          "start": 1175,
+          "end": 1425,
+          "text": "55",
+          "confidence": 0.99955,
+          "word_is_final": false
+        },
+        {
+          "start": 1450,
+          "end": 1700,
+          "text": "Nm",
+          "confidence": 0.891361,
+          "word_is_final": false
+        },
+        {
+          "start": 1725,
+          "end": 1975,
+          "text": "on",
+          "confidence": 0.996453,
+          "word_is_final": false
+        },
+        {
+          "start": 2000,
+          "end": 2500,
+          "text": "unit",
+          "confidence": 0.997669,
+          "word_is_final": false
+        },
+        {
+          "start": 2525,
+          "end": 2650,
+          "text": "P",
+          "confidence": 0.863331,
+          "word_is_final": false
+        },
+        {
+          "start": 2675,
+          "end": 2925,
+          "text": "is",
+          "confidence": 0.997226,
+          "word_is_final": false
+        },
+        {
+          "start": 2950,
+          "end": 3200,
+          "text": "to",
+          "confidence": 0.33928,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5097.1
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The torque 55 Nm on unit P is 208.",
+      "end_of_turn_confidence": 0.275,
+      "words": [
+        {
+          "start": 0,
+          "end": 466,
+          "text": "The",
+          "confidence": 0.785438,
+          "word_is_final": false
+        },
+        {
+          "start": 497,
+          "end": 1429,
+          "text": "torque",
+          "confidence": 0.999728,
+          "word_is_final": false
+        },
+        {
+          "start": 1460,
+          "end": 1770,
+          "text": "55",
+          "confidence": 0.999686,
+          "word_is_final": false
+        },
+        {
+          "start": 1801,
+          "end": 2111,
+          "text": "Nm",
+          "confidence": 0.895357,
+          "word_is_final": false
+        },
+        {
+          "start": 2142,
+          "end": 2452,
+          "text": "on",
+          "confidence": 0.990791,
+          "word_is_final": false
+        },
+        {
+          "start": 2483,
+          "end": 3104,
+          "text": "unit",
+          "confidence": 0.998089,
+          "word_is_final": false
+        },
+        {
+          "start": 3135,
+          "end": 3290,
+          "text": "P",
+          "confidence": 0.928424,
+          "word_is_final": false
+        },
+        {
+          "start": 3321,
+          "end": 3631,
+          "text": "is",
+          "confidence": 0.994214,
+          "word_is_final": false
+        },
+        {
+          "start": 3662,
+          "end": 4283,
+          "text": "208.",
+          "confidence": 0.989,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6043.1
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The torque 55 Nm on unit P is 208.",
+      "end_of_turn_confidence": 0.425,
+      "words": [
+        {
+          "start": 0,
+          "end": 466,
+          "text": "The",
+          "confidence": 0.785438,
+          "word_is_final": false
+        },
+        {
+          "start": 497,
+          "end": 1429,
+          "text": "torque",
+          "confidence": 0.999728,
+          "word_is_final": false
+        },
+        {
+          "start": 1460,
+          "end": 1770,
+          "text": "55",
+          "confidence": 0.999686,
+          "word_is_final": false
+        },
+        {
+          "start": 1801,
+          "end": 2111,
+          "text": "Nm",
+          "confidence": 0.895357,
+          "word_is_final": false
+        },
+        {
+          "start": 2142,
+          "end": 2452,
+          "text": "on",
+          "confidence": 0.990791,
+          "word_is_final": false
+        },
+        {
+          "start": 2483,
+          "end": 3104,
+          "text": "unit",
+          "confidence": 0.998089,
+          "word_is_final": false
+        },
+        {
+          "start": 3135,
+          "end": 3290,
+          "text": "P",
+          "confidence": 0.928424,
+          "word_is_final": false
+        },
+        {
+          "start": 3321,
+          "end": 3631,
+          "text": "is",
+          "confidence": 0.994214,
+          "word_is_final": false
+        },
+        {
+          "start": 3662,
+          "end": 4283,
+          "text": "208.",
+          "confidence": 0.989,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6311.8
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The torque 55 Nm on unit P is 208.",
+      "end_of_turn_confidence": 0.525,
+      "words": [
+        {
+          "start": 0,
+          "end": 466,
+          "text": "The",
+          "confidence": 0.785438,
+          "word_is_final": false
+        },
+        {
+          "start": 497,
+          "end": 1429,
+          "text": "torque",
+          "confidence": 0.999728,
+          "word_is_final": false
+        },
+        {
+          "start": 1460,
+          "end": 1770,
+          "text": "55",
+          "confidence": 0.999686,
+          "word_is_final": false
+        },
+        {
+          "start": 1801,
+          "end": 2111,
+          "text": "Nm",
+          "confidence": 0.895357,
+          "word_is_final": false
+        },
+        {
+          "start": 2142,
+          "end": 2452,
+          "text": "on",
+          "confidence": 0.990791,
+          "word_is_final": false
+        },
+        {
+          "start": 2483,
+          "end": 3104,
+          "text": "unit",
+          "confidence": 0.998089,
+          "word_is_final": false
+        },
+        {
+          "start": 3135,
+          "end": 3290,
+          "text": "P",
+          "confidence": 0.928424,
+          "word_is_final": false
+        },
+        {
+          "start": 3321,
+          "end": 3631,
+          "text": "is",
+          "confidence": 0.994214,
+          "word_is_final": false
+        },
+        {
+          "start": 3662,
+          "end": 4283,
+          "text": "208.",
+          "confidence": 0.989,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6342.4
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The torque 55 Nm on unit P is 208.",
+      "end_of_turn_confidence": 0.675,
+      "words": [
+        {
+          "start": 0,
+          "end": 466,
+          "text": "The",
+          "confidence": 0.785438,
+          "word_is_final": false
+        },
+        {
+          "start": 497,
+          "end": 1429,
+          "text": "torque",
+          "confidence": 0.999728,
+          "word_is_final": false
+        },
+        {
+          "start": 1460,
+          "end": 1770,
+          "text": "55",
+          "confidence": 0.999686,
+          "word_is_final": false
+        },
+        {
+          "start": 1801,
+          "end": 2111,
+          "text": "Nm",
+          "confidence": 0.895357,
+          "word_is_final": false
+        },
+        {
+          "start": 2142,
+          "end": 2452,
+          "text": "on",
+          "confidence": 0.990791,
+          "word_is_final": false
+        },
+        {
+          "start": 2483,
+          "end": 3104,
+          "text": "unit",
+          "confidence": 0.998089,
+          "word_is_final": false
+        },
+        {
+          "start": 3135,
+          "end": 3290,
+          "text": "P",
+          "confidence": 0.928424,
+          "word_is_final": false
+        },
+        {
+          "start": 3321,
+          "end": 3631,
+          "text": "is",
+          "confidence": 0.994214,
+          "word_is_final": false
+        },
+        {
+          "start": 3662,
+          "end": 4283,
+          "text": "208.",
+          "confidence": 0.989,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6543.1
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The torque 55 Nm on unit P is 208.",
+      "end_of_turn_confidence": 0.825,
+      "words": [
+        {
+          "start": 0,
+          "end": 466,
+          "text": "The",
+          "confidence": 0.785438,
+          "word_is_final": false
+        },
+        {
+          "start": 497,
+          "end": 1429,
+          "text": "torque",
+          "confidence": 0.999728,
+          "word_is_final": false
+        },
+        {
+          "start": 1460,
+          "end": 1770,
+          "text": "55",
+          "confidence": 0.999686,
+          "word_is_final": false
+        },
+        {
+          "start": 1801,
+          "end": 2111,
+          "text": "Nm",
+          "confidence": 0.895357,
+          "word_is_final": false
+        },
+        {
+          "start": 2142,
+          "end": 2452,
+          "text": "on",
+          "confidence": 0.990791,
+          "word_is_final": false
+        },
+        {
+          "start": 2483,
+          "end": 3104,
+          "text": "unit",
+          "confidence": 0.998089,
+          "word_is_final": false
+        },
+        {
+          "start": 3135,
+          "end": 3290,
+          "text": "P",
+          "confidence": 0.928424,
+          "word_is_final": false
+        },
+        {
+          "start": 3321,
+          "end": 3631,
+          "text": "is",
+          "confidence": 0.994214,
+          "word_is_final": false
+        },
+        {
+          "start": 3662,
+          "end": 4283,
+          "text": "208.",
+          "confidence": 0.989,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6741.9
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The torque 55 Nm on unit P is 208.",
+      "end_of_turn_confidence": 0.975,
+      "words": [
+        {
+          "start": 0,
+          "end": 466,
+          "text": "The",
+          "confidence": 0.785438,
+          "word_is_final": false
+        },
+        {
+          "start": 497,
+          "end": 1429,
+          "text": "torque",
+          "confidence": 0.999728,
+          "word_is_final": false
+        },
+        {
+          "start": 1460,
+          "end": 1770,
+          "text": "55",
+          "confidence": 0.999686,
+          "word_is_final": false
+        },
+        {
+          "start": 1801,
+          "end": 2111,
+          "text": "Nm",
+          "confidence": 0.895357,
+          "word_is_final": false
+        },
+        {
+          "start": 2142,
+          "end": 2452,
+          "text": "on",
+          "confidence": 0.990791,
+          "word_is_final": false
+        },
+        {
+          "start": 2483,
+          "end": 3104,
+          "text": "unit",
+          "confidence": 0.998089,
+          "word_is_final": false
+        },
+        {
+          "start": 3135,
+          "end": 3290,
+          "text": "P",
+          "confidence": 0.928424,
+          "word_is_final": false
+        },
+        {
+          "start": 3321,
+          "end": 3631,
+          "text": "is",
+          "confidence": 0.994214,
+          "word_is_final": false
+        },
+        {
+          "start": 3662,
+          "end": 4283,
+          "text": "208.",
+          "confidence": 0.989,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6973.4
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": true,
+      "transcript": "The torque 55 Nm on unit P is 208.",
+      "end_of_turn_confidence": 1.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 587,
+          "text": "The",
+          "confidence": 0.742728,
+          "word_is_final": true
+        },
+        {
+          "start": 626,
+          "end": 1801,
+          "text": "torque",
+          "confidence": 0.999754,
+          "word_is_final": true
+        },
+        {
+          "start": 1840,
+          "end": 2231,
+          "text": "55",
+          "confidence": 0.999629,
+          "word_is_final": true
+        },
+        {
+          "start": 2270,
+          "end": 2661,
+          "text": "Nm",
+          "confidence": 0.897497,
+          "word_is_final": true
+        },
+        {
+          "start": 2700,
+          "end": 3091,
+          "text": "on",
+          "confidence": 0.984145,
+          "word_is_final": true
+        },
+        {
+          "start": 3130,
+          "end": 3913,
+          "text": "unit",
+          "confidence": 0.997654,
+          "word_is_final": true
+        },
+        {
+          "start": 3952,
+          "end": 4147,
+          "text": "P",
+          "confidence": 0.901234,
+          "word_is_final": true
+        },
+        {
+          "start": 4186,
+          "end": 4577,
+          "text": "is",
+          "confidence": 0.994659,
+          "word_is_final": true
+        },
+        {
+          "start": 4616,
+          "end": 5399,
+          "text": "208.",
+          "confidence": 0.990921,
+          "word_is_final": true
+        }
+      ],
+      "utterance": "The torque 55 Nm on unit P is 208.",
+      "type": "Turn",
+      "_recv_ms": 7192.0
+    },
+    {
+      "type": "Termination",
+      "audio_duration_seconds": 6,
+      "session_duration_seconds": 7,
+      "_recv_ms": 8081.9
+    }
+  ]
+}

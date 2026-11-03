@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "arm": "SELFTEST",
+    "label": "serial_mumbled",
+    "WARNING": "synthetic confidences \u2014 not AssemblyAI output"
+  },
+  "messages": [
+    {
+      "type": "Turn",
+      "turn_order": 37,
+      "end_of_turn": true,
+      "turn_is_formatted": false,
+      "transcript": "The serial number is A-104",
+      "utterance": "The serial number is A-104",
+      "end_of_turn_confidence": 0.94,
+      "words": [
+        {
+          "text": "The",
+          "start": 8000,
+          "end": 8380,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "serial",
+          "start": 8420,
+          "end": 8920,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "number",
+          "start": 8960,
+          "end": 9460,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "is",
+          "start": 9500,
+          "end": 9840,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "A-104",
+          "start": 9880,
+          "end": 10340,
+          "confidence": 0.62,
+          "word_is_final": true,
+          "speaker": null
+        }
+      ]
+    }
+  ]
+}

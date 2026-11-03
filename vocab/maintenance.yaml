@@ -1,0 +1,77 @@
+# Caveat vocabulary — industrial maintenance.
+# This file is POLICY. A human edits it, git tracks it, no runtime process
+# may modify it. Criticality and gates are set here and nowhere else.
+name: maintenance
+policy_rev: v1
+
+defaults:
+  gate: 0.85
+  criticality: high
+  confusable_boost: 0.06
+  confusable_gate_cap: 0.98
+
+slots:
+  torque:
+    class: quantity
+    criticality: high
+    gate: 0.85
+    unit: Nm
+    keyterms: ["torque", "newton metres", "Nm"]
+    confusables:
+      "45": ["55"]
+      "55": ["45"]
+      "15": ["50"]
+      "50": ["15"]
+
+  pressure:
+    class: quantity
+    criticality: high
+    gate: 0.85
+    unit: PSI
+    keyterms: ["pressure", "PSI"]
+    confusables:
+      "80": ["90"]
+      "90": ["80"]
+      "15": ["50"]
+      "50": ["15"]
+
+  serial:
+    class: identifier
+    criticality: high
+    gate: 0.88
+    keyterms: ["serial", "A-104", "A-140", "B-104"]
+    known_values: ["A-104", "A-140", "B-104"]
+    confusables:
+      "A-104": ["A-140"]
+      "A-140": ["A-104"]
+
+  unit_id:
+    class: identifier
+    criticality: high
+    gate: 0.88
+    keyterms: ["unit", "P-207", "P-217", "P-208"]
+    known_values: ["P-207", "P-217", "P-208"]
+    confusables:
+      "P-207": ["P-217"]
+      "P-217": ["P-207"]
+
+  level:
+    class: quantity
+    criticality: medium
+    gate: 0.82
+    unit: "%"
+    keyterms: ["level", "percent"]
+    confusables:
+      "82": ["62"]
+      "62": ["82"]
+
+  surface_condition:
+    class: categorical
+    criticality: low
+    gate: 0.00          # never gated — low criticality commits regardless
+    keyterms: ["pitting", "corrosion", "scoring", "clean"]
+
+  notes:
+    class: free_text
+    criticality: low
+    gate: 0.00

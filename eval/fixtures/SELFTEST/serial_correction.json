@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "arm": "SELFTEST",
+    "label": "serial_correction",
+    "WARNING": "synthetic confidences \u2014 not AssemblyAI output"
+  },
+  "messages": [
+    {
+      "type": "Turn",
+      "turn_order": 38,
+      "end_of_turn": true,
+      "turn_is_formatted": false,
+      "transcript": "Actually the serial is A-140",
+      "utterance": "Actually the serial is A-140",
+      "end_of_turn_confidence": 0.94,
+      "words": [
+        {
+          "text": "Actually",
+          "start": 8000,
+          "end": 8580,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "the",
+          "start": 8620,
+          "end": 9000,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "serial",
+          "start": 9040,
+          "end": 9540,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "is",
+          "start": 9580,
+          "end": 9920,
+          "confidence": 0.96,
+          "word_is_final": true,
+          "speaker": null
+        },
+        {
+          "text": "A-140",
+          "start": 9960,
+          "end": 10420,
+          "confidence": 0.95,
+          "word_is_final": true,
+          "speaker": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "arm": "A1",
+    "label": "The pressure is 80 PSI.",
+    "sample_rate": 16000,
+    "speech_model": "universal-3-5-pro",
+    "config": {},
+    "recorded_at": "2026-09-06T07:46:54Z"
+  },
+  "messages": [
+    {
+      "type": "Error",
+      "error_code": 1008,
+      "error": "Unauthorized Connection: Too many concurrent sessions",
+      "_recv_ms": 888.2
+    }
+  ]
+}

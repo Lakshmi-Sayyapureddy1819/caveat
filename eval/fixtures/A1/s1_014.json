@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "arm": "A1",
+    "label": "The level is 82 percent.",
+    "sample_rate": 16000,
+    "speech_model": "universal-3-5-pro",
+    "config": {},
+    "recorded_at": "2026-09-06T07:47:28Z"
+  },
+  "messages": [
+    {
+      "type": "Begin",
+      "id": "c1da2249-af4c-4188-9488-a4ee54fc1f07",
+      "expires_at": 1788691639,
+      "configuration": {
+        "model": "universal-3-5-pro",
+        "mode": "balanced",
+        "api_version": "2025-05-12",
+        "speaker_labels": false,
+        "redact_pii": false,
+        "filter_profanity": false,
+        "domain": null,
+        "voice_focus": null
+      },
+      "_recv_ms": 1446.7
+    },
+    {
+      "type": "SpeechStarted",
+      "timestamp": 0,
+      "confidence": 0.896475,
+      "_recv_ms": 2642.1
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The level is 80.",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 176,
+          "text": "The",
+          "confidence": 0.993099,
+          "word_is_final": false
+        },
+        {
+          "start": 187,
+          "end": 481,
+          "text": "level",
+          "confidence": 0.999285,
+          "word_is_final": false
+        },
+        {
+          "start": 492,
+          "end": 609,
+          "text": "is",
+          "confidence": 0.998933,
+          "word_is_final": false
+        },
+        {
+          "start": 620,
+          "end": 796,
+          "text": "80.",
+          "confidence": 0.594581,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 2642.3
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": true,
+      "transcript": "The level is 82%.",
+      "end_of_turn_confidence": 1.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 427,
+          "text": "The",
+          "confidence": 0.954518,
+          "word_is_final": true
+        },
+        {
+          "start": 455,
+          "end": 1167,
+          "text": "level",
+          "confidence": 0.999559,
+          "word_is_final": true
+        },
+        {
+          "start": 1195,
+          "end": 1479,
+          "text": "is",
+          "confidence": 0.999812,
+          "word_is_final": true
+        },
+        {
+          "start": 1507,
+          "end": 2076,
+          "text": "82%.",
+          "confidence": 0.997506,
+          "word_is_final": true
+        }
+      ],
+      "utterance": "The level is 82%.",
+      "type": "Turn",
+      "_recv_ms": 3880.8
+    },
+    {
+      "type": "Termination",
+      "audio_duration_seconds": 6,
+      "session_duration_seconds": 7,
+      "_recv_ms": 8036.4
+    }
+  ]
+}

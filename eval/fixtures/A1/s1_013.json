@@ -1,0 +1,428 @@
+{
+  "meta": {
+    "arm": "A1",
+    "label": "The pressure is 50 PSI.",
+    "sample_rate": 16000,
+    "speech_model": "universal-3-5-pro",
+    "config": {},
+    "recorded_at": "2026-09-06T07:47:19Z"
+  },
+  "messages": [
+    {
+      "type": "Begin",
+      "id": "5b4c782f-c77c-4cd1-9d41-8ffde7576fff",
+      "expires_at": 1788691631,
+      "configuration": {
+        "model": "universal-3-5-pro",
+        "mode": "balanced",
+        "api_version": "2025-05-12",
+        "speaker_labels": false,
+        "redact_pii": false,
+        "filter_profanity": false,
+        "domain": null,
+        "voice_focus": null
+      },
+      "_recv_ms": 1483.2
+    },
+    {
+      "type": "SpeechStarted",
+      "timestamp": 416,
+      "confidence": 0.380435,
+      "_recv_ms": 3238.6
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "That",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 416,
+          "end": 1600,
+          "text": "That",
+          "confidence": 0.380435,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 3239.0
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The pressure is 50.",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 416,
+          "end": 826,
+          "text": "The",
+          "confidence": 0.964638,
+          "word_is_final": false
+        },
+        {
+          "start": 853,
+          "end": 1947,
+          "text": "pressure",
+          "confidence": 0.999941,
+          "word_is_final": false
+        },
+        {
+          "start": 1974,
+          "end": 2247,
+          "text": "is",
+          "confidence": 0.999927,
+          "word_is_final": false
+        },
+        {
+          "start": 2274,
+          "end": 2684,
+          "text": "50.",
+          "confidence": 0.664999,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 4460.6
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The pressure is 50 PSI.",
+      "end_of_turn_confidence": 0.175,
+      "words": [
+        {
+          "start": 416,
+          "end": 925,
+          "text": "The",
+          "confidence": 0.956201,
+          "word_is_final": false
+        },
+        {
+          "start": 958,
+          "end": 2315,
+          "text": "pressure",
+          "confidence": 0.999937,
+          "word_is_final": false
+        },
+        {
+          "start": 2348,
+          "end": 2687,
+          "text": "is",
+          "confidence": 0.999907,
+          "word_is_final": false
+        },
+        {
+          "start": 2720,
+          "end": 3059,
+          "text": "50",
+          "confidence": 0.999691,
+          "word_is_final": false
+        },
+        {
+          "start": 3092,
+          "end": 3770,
+          "text": "PSI.",
+          "confidence": 0.738835,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5508.6
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The pressure is 50 PSI.",
+      "end_of_turn_confidence": 0.275,
+      "words": [
+        {
+          "start": 416,
+          "end": 925,
+          "text": "The",
+          "confidence": 0.956201,
+          "word_is_final": false
+        },
+        {
+          "start": 958,
+          "end": 2315,
+          "text": "pressure",
+          "confidence": 0.999937,
+          "word_is_final": false
+        },
+        {
+          "start": 2348,
+          "end": 2687,
+          "text": "is",
+          "confidence": 0.999907,
+          "word_is_final": false
+        },
+        {
+          "start": 2720,
+          "end": 3059,
+          "text": "50",
+          "confidence": 0.999691,
+          "word_is_final": false
+        },
+        {
+          "start": 3092,
+          "end": 3770,
+          "text": "PSI.",
+          "confidence": 0.738835,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5524.3
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The pressure is 50 PSI.",
+      "end_of_turn_confidence": 0.425,
+      "words": [
+        {
+          "start": 416,
+          "end": 925,
+          "text": "The",
+          "confidence": 0.956201,
+          "word_is_final": false
+        },
+        {
+          "start": 958,
+          "end": 2315,
+          "text": "pressure",
+          "confidence": 0.999937,
+          "word_is_final": false
+        },
+        {
+          "start": 2348,
+          "end": 2687,
+          "text": "is",
+          "confidence": 0.999907,
+          "word_is_final": false
+        },
+        {
+          "start": 2720,
+          "end": 3059,
+          "text": "50",
+          "confidence": 0.999691,
+          "word_is_final": false
+        },
+        {
+          "start": 3092,
+          "end": 3770,
+          "text": "PSI.",
+          "confidence": 0.738835,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5724.1
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The pressure is 50 PSI.",
+      "end_of_turn_confidence": 0.575,
+      "words": [
+        {
+          "start": 416,
+          "end": 925,
+          "text": "The",
+          "confidence": 0.956201,
+          "word_is_final": false
+        },
+        {
+          "start": 958,
+          "end": 2315,
+          "text": "pressure",
+          "confidence": 0.999937,
+          "word_is_final": false
+        },
+        {
+          "start": 2348,
+          "end": 2687,
+          "text": "is",
+          "confidence": 0.999907,
+          "word_is_final": false
+        },
+        {
+          "start": 2720,
+          "end": 3059,
+          "text": "50",
+          "confidence": 0.999691,
+          "word_is_final": false
+        },
+        {
+          "start": 3092,
+          "end": 3770,
+          "text": "PSI.",
+          "confidence": 0.738835,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5924.4
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The pressure is 50 PSI.",
+      "end_of_turn_confidence": 0.725,
+      "words": [
+        {
+          "start": 416,
+          "end": 925,
+          "text": "The",
+          "confidence": 0.956201,
+          "word_is_final": false
+        },
+        {
+          "start": 958,
+          "end": 2315,
+          "text": "pressure",
+          "confidence": 0.999937,
+          "word_is_final": false
+        },
+        {
+          "start": 2348,
+          "end": 2687,
+          "text": "is",
+          "confidence": 0.999907,
+          "word_is_final": false
+        },
+        {
+          "start": 2720,
+          "end": 3059,
+          "text": "50",
+          "confidence": 0.999691,
+          "word_is_final": false
+        },
+        {
+          "start": 3092,
+          "end": 3770,
+          "text": "PSI.",
+          "confidence": 0.738835,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6126.0
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The pressure is 50 PSI.",
+      "end_of_turn_confidence": 0.9,
+      "words": [
+        {
+          "start": 416,
+          "end": 925,
+          "text": "The",
+          "confidence": 0.956201,
+          "word_is_final": false
+        },
+        {
+          "start": 958,
+          "end": 2315,
+          "text": "pressure",
+          "confidence": 0.999937,
+          "word_is_final": false
+        },
+        {
+          "start": 2348,
+          "end": 2687,
+          "text": "is",
+          "confidence": 0.999907,
+          "word_is_final": false
+        },
+        {
+          "start": 2720,
+          "end": 3059,
+          "text": "50",
+          "confidence": 0.999691,
+          "word_is_final": false
+        },
+        {
+          "start": 3092,
+          "end": 3770,
+          "text": "PSI.",
+          "confidence": 0.738835,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6384.3
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": true,
+      "transcript": "The pressure is 50 PSI.",
+      "end_of_turn_confidence": 1.0,
+      "words": [
+        {
+          "start": 416,
+          "end": 1099,
+          "text": "The",
+          "confidence": 0.951313,
+          "word_is_final": true
+        },
+        {
+          "start": 1144,
+          "end": 2967,
+          "text": "pressure",
+          "confidence": 0.999911,
+          "word_is_final": true
+        },
+        {
+          "start": 3012,
+          "end": 3467,
+          "text": "is",
+          "confidence": 0.999858,
+          "word_is_final": true
+        },
+        {
+          "start": 3512,
+          "end": 3967,
+          "text": "50",
+          "confidence": 0.999667,
+          "word_is_final": true
+        },
+        {
+          "start": 4012,
+          "end": 4923,
+          "text": "PSI.",
+          "confidence": 0.728075,
+          "word_is_final": true
+        }
+      ],
+      "utterance": "The pressure is 50 PSI.",
+      "type": "Turn",
+      "_recv_ms": 6630.5
+    },
+    {
+      "type": "Termination",
+      "audio_duration_seconds": 6,
+      "session_duration_seconds": 7,
+      "_recv_ms": 7982.2
+    }
+  ]
+}

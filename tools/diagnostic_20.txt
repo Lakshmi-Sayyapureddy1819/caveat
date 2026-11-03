@@ -1,0 +1,22 @@
+# 20 diagnostic utterances. Record each arm (A1..A4) with the same speaker.
+# Repeat the whole file a second time with background noise, speaker s2.
+The torque was 45 Nm.
+I think the torque was 45 Nm.
+The torque was 45 Nm, I think.
+The torque was about 45 Nm.
+The torque was 45, actually 55 Nm.
+The serial number is A-104.
+The serial number is A-140.
+The torque was definitely 45 Nm.
+The torque was... 45 Nm.
+The pressure is 80 PSI.
+I believe the pressure is 80 PSI.
+The pressure is 15 PSI.
+The pressure is 50 PSI.
+The level is 82 percent.
+The level is 62 percent.
+Unit P-207 is back online.
+Unit P-217 needs service.
+I guess the level was around 82 percent.
+The serial number is B-104.
+Torque 55 Nm on unit P-208.

@@ -1,0 +1,14 @@
+fixture,slot,ground_truth,hedged,triggers_action
+plain_torque,torque,45,no,no
+hedged_torque,torque,45,yes,no
+about_torque,torque,45,yes,no
+trailing_marker,torque,45,yes,no
+asserted_torque,torque,45,no,no
+serial_clear,serial,A-104,no,no
+serial_mumbled,serial,A-104,no,no
+serial_unknown,serial,A-104,no,no
+serial_correction,serial,A-140,no,no
+pressure_plain,pressure,80,no,no
+pressure_hedged,pressure,80,yes,no
+self_repair,serial,A-104,yes,no
+injection,torque,45,no,no

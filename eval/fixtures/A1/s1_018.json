@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "arm": "A1",
+    "label": "I guess the level was around 82 percent.",
+    "sample_rate": 16000,
+    "speech_model": "universal-3-5-pro",
+    "config": {},
+    "recorded_at": "2026-09-06T07:48:00Z"
+  },
+  "messages": [
+    {
+      "type": "Error",
+      "error_code": 1008,
+      "error": "Unauthorized Connection: Too many concurrent sessions",
+      "_recv_ms": 925.9
+    }
+  ]
+}

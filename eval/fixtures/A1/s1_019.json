@@ -1,0 +1,630 @@
+{
+  "meta": {
+    "arm": "A1",
+    "label": "The serial number is B-104.",
+    "sample_rate": 16000,
+    "speech_model": "universal-3-5-pro",
+    "config": {},
+    "recorded_at": "2026-09-06T07:48:09Z"
+  },
+  "messages": [
+    {
+      "type": "Begin",
+      "id": "6c22c32d-d414-4d09-b4a0-8ab5cb3338c3",
+      "expires_at": 1788691681,
+      "configuration": {
+        "model": "universal-3-5-pro",
+        "mode": "balanced",
+        "api_version": "2025-05-12",
+        "speaker_labels": false,
+        "redact_pii": false,
+        "filter_profanity": false,
+        "domain": null,
+        "voice_focus": null
+      },
+      "_recv_ms": 1425.7
+    },
+    {
+      "type": "SpeechStarted",
+      "timestamp": 0,
+      "confidence": 0.517929,
+      "_recv_ms": 2901.2
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The sea",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 387,
+          "text": "The",
+          "confidence": 0.45468,
+          "word_is_final": false
+        },
+        {
+          "start": 412,
+          "end": 799,
+          "text": "sea",
+          "confidence": 0.581178,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 2901.7
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is B104.",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 315,
+          "text": "The",
+          "confidence": 0.99509,
+          "word_is_final": false
+        },
+        {
+          "start": 336,
+          "end": 967,
+          "text": "serial",
+          "confidence": 0.999842,
+          "word_is_final": false
+        },
+        {
+          "start": 988,
+          "end": 1619,
+          "text": "number",
+          "confidence": 0.999867,
+          "word_is_final": false
+        },
+        {
+          "start": 1640,
+          "end": 1850,
+          "text": "is",
+          "confidence": 0.999872,
+          "word_is_final": false
+        },
+        {
+          "start": 1871,
+          "end": 2397,
+          "text": "B104.",
+          "confidence": 0.987111,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 4132.3
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is B104.",
+      "end_of_turn_confidence": 0.2,
+      "words": [
+        {
+          "start": 0,
+          "end": 391,
+          "text": "The",
+          "confidence": 0.994809,
+          "word_is_final": false
+        },
+        {
+          "start": 417,
+          "end": 1200,
+          "text": "serial",
+          "confidence": 0.999657,
+          "word_is_final": false
+        },
+        {
+          "start": 1226,
+          "end": 2009,
+          "text": "number",
+          "confidence": 0.999427,
+          "word_is_final": false
+        },
+        {
+          "start": 2035,
+          "end": 2296,
+          "text": "is",
+          "confidence": 0.999739,
+          "word_is_final": false
+        },
+        {
+          "start": 2322,
+          "end": 2974,
+          "text": "B104.",
+          "confidence": 0.993345,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 4634.2
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is B104.",
+      "end_of_turn_confidence": 0.3,
+      "words": [
+        {
+          "start": 0,
+          "end": 391,
+          "text": "The",
+          "confidence": 0.994809,
+          "word_is_final": false
+        },
+        {
+          "start": 417,
+          "end": 1200,
+          "text": "serial",
+          "confidence": 0.999657,
+          "word_is_final": false
+        },
+        {
+          "start": 1226,
+          "end": 2009,
+          "text": "number",
+          "confidence": 0.999427,
+          "word_is_final": false
+        },
+        {
+          "start": 2035,
+          "end": 2296,
+          "text": "is",
+          "confidence": 0.999739,
+          "word_is_final": false
+        },
+        {
+          "start": 2322,
+          "end": 2974,
+          "text": "B104.",
+          "confidence": 0.993345,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 4733.4
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is B104.",
+      "end_of_turn_confidence": 0.45,
+      "words": [
+        {
+          "start": 0,
+          "end": 391,
+          "text": "The",
+          "confidence": 0.994809,
+          "word_is_final": false
+        },
+        {
+          "start": 417,
+          "end": 1200,
+          "text": "serial",
+          "confidence": 0.999657,
+          "word_is_final": false
+        },
+        {
+          "start": 1226,
+          "end": 2009,
+          "text": "number",
+          "confidence": 0.999427,
+          "word_is_final": false
+        },
+        {
+          "start": 2035,
+          "end": 2296,
+          "text": "is",
+          "confidence": 0.999739,
+          "word_is_final": false
+        },
+        {
+          "start": 2322,
+          "end": 2974,
+          "text": "B104.",
+          "confidence": 0.993345,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 4997.9
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is B104.",
+      "end_of_turn_confidence": 0.6,
+      "words": [
+        {
+          "start": 0,
+          "end": 391,
+          "text": "The",
+          "confidence": 0.994809,
+          "word_is_final": false
+        },
+        {
+          "start": 417,
+          "end": 1200,
+          "text": "serial",
+          "confidence": 0.999657,
+          "word_is_final": false
+        },
+        {
+          "start": 1226,
+          "end": 2009,
+          "text": "number",
+          "confidence": 0.999427,
+          "word_is_final": false
+        },
+        {
+          "start": 2035,
+          "end": 2296,
+          "text": "is",
+          "confidence": 0.999739,
+          "word_is_final": false
+        },
+        {
+          "start": 2322,
+          "end": 2974,
+          "text": "B104.",
+          "confidence": 0.993345,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5132.6
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is B104.",
+      "end_of_turn_confidence": 0.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 484,
+          "text": "The",
+          "confidence": 0.987179,
+          "word_is_final": false
+        },
+        {
+          "start": 516,
+          "end": 1484,
+          "text": "serial",
+          "confidence": 0.999604,
+          "word_is_final": false
+        },
+        {
+          "start": 1516,
+          "end": 2484,
+          "text": "number",
+          "confidence": 0.999567,
+          "word_is_final": false
+        },
+        {
+          "start": 2516,
+          "end": 2838,
+          "text": "is",
+          "confidence": 0.999788,
+          "word_is_final": false
+        },
+        {
+          "start": 2870,
+          "end": 3677,
+          "text": "B104.",
+          "confidence": 0.988577,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5354.3
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is B104.",
+      "end_of_turn_confidence": 0.325,
+      "words": [
+        {
+          "start": 0,
+          "end": 509,
+          "text": "The",
+          "confidence": 0.987028,
+          "word_is_final": false
+        },
+        {
+          "start": 542,
+          "end": 1560,
+          "text": "serial",
+          "confidence": 0.999699,
+          "word_is_final": false
+        },
+        {
+          "start": 1593,
+          "end": 2611,
+          "text": "number",
+          "confidence": 0.999703,
+          "word_is_final": false
+        },
+        {
+          "start": 2644,
+          "end": 2983,
+          "text": "is",
+          "confidence": 0.999845,
+          "word_is_final": false
+        },
+        {
+          "start": 3016,
+          "end": 3865,
+          "text": "B104.",
+          "confidence": 0.988785,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5632.3
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is B104.",
+      "end_of_turn_confidence": 0.475,
+      "words": [
+        {
+          "start": 0,
+          "end": 509,
+          "text": "The",
+          "confidence": 0.987028,
+          "word_is_final": false
+        },
+        {
+          "start": 542,
+          "end": 1560,
+          "text": "serial",
+          "confidence": 0.999699,
+          "word_is_final": false
+        },
+        {
+          "start": 1593,
+          "end": 2611,
+          "text": "number",
+          "confidence": 0.999703,
+          "word_is_final": false
+        },
+        {
+          "start": 2644,
+          "end": 2983,
+          "text": "is",
+          "confidence": 0.999845,
+          "word_is_final": false
+        },
+        {
+          "start": 3016,
+          "end": 3865,
+          "text": "B104.",
+          "confidence": 0.988785,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 5882.0
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is B104.",
+      "end_of_turn_confidence": 0.625,
+      "words": [
+        {
+          "start": 0,
+          "end": 509,
+          "text": "The",
+          "confidence": 0.987028,
+          "word_is_final": false
+        },
+        {
+          "start": 542,
+          "end": 1560,
+          "text": "serial",
+          "confidence": 0.999699,
+          "word_is_final": false
+        },
+        {
+          "start": 1593,
+          "end": 2611,
+          "text": "number",
+          "confidence": 0.999703,
+          "word_is_final": false
+        },
+        {
+          "start": 2644,
+          "end": 2983,
+          "text": "is",
+          "confidence": 0.999845,
+          "word_is_final": false
+        },
+        {
+          "start": 3016,
+          "end": 3865,
+          "text": "B104.",
+          "confidence": 0.988785,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6055.5
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is B104.",
+      "end_of_turn_confidence": 0.775,
+      "words": [
+        {
+          "start": 0,
+          "end": 509,
+          "text": "The",
+          "confidence": 0.987028,
+          "word_is_final": false
+        },
+        {
+          "start": 542,
+          "end": 1560,
+          "text": "serial",
+          "confidence": 0.999699,
+          "word_is_final": false
+        },
+        {
+          "start": 1593,
+          "end": 2611,
+          "text": "number",
+          "confidence": 0.999703,
+          "word_is_final": false
+        },
+        {
+          "start": 2644,
+          "end": 2983,
+          "text": "is",
+          "confidence": 0.999845,
+          "word_is_final": false
+        },
+        {
+          "start": 3016,
+          "end": 3865,
+          "text": "B104.",
+          "confidence": 0.988785,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6249.3
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": false,
+      "transcript": "The serial number is B104.",
+      "end_of_turn_confidence": 0.875,
+      "words": [
+        {
+          "start": 0,
+          "end": 509,
+          "text": "The",
+          "confidence": 0.987028,
+          "word_is_final": false
+        },
+        {
+          "start": 542,
+          "end": 1560,
+          "text": "serial",
+          "confidence": 0.999699,
+          "word_is_final": false
+        },
+        {
+          "start": 1593,
+          "end": 2611,
+          "text": "number",
+          "confidence": 0.999703,
+          "word_is_final": false
+        },
+        {
+          "start": 2644,
+          "end": 2983,
+          "text": "is",
+          "confidence": 0.999845,
+          "word_is_final": false
+        },
+        {
+          "start": 3016,
+          "end": 3865,
+          "text": "B104.",
+          "confidence": 0.988785,
+          "word_is_final": false
+        }
+      ],
+      "utterance": "",
+      "type": "Turn",
+      "_recv_ms": 6403.3
+    },
+    {
+      "turn_order": 0,
+      "turn_is_formatted": true,
+      "end_of_turn": true,
+      "transcript": "The serial number is B104.",
+      "end_of_turn_confidence": 1.0,
+      "words": [
+        {
+          "start": 0,
+          "end": 652,
+          "text": "The",
+          "confidence": 0.989438,
+          "word_is_final": true
+        },
+        {
+          "start": 695,
+          "end": 2000,
+          "text": "serial",
+          "confidence": 0.999691,
+          "word_is_final": true
+        },
+        {
+          "start": 2043,
+          "end": 3348,
+          "text": "number",
+          "confidence": 0.999691,
+          "word_is_final": true
+        },
+        {
+          "start": 3391,
+          "end": 3826,
+          "text": "is",
+          "confidence": 0.999757,
+          "word_is_final": true
+        },
+        {
+          "start": 3869,
+          "end": 4956,
+          "text": "B104.",
+          "confidence": 0.988513,
+          "word_is_final": true
+        }
+      ],
+      "utterance": "The serial number is B104.",
+      "type": "Turn",
+      "_recv_ms": 6647.1
+    },
+    {
+      "type": "Termination",
+      "audio_duration_seconds": 6,
+      "session_duration_seconds": 7,
+      "_recv_ms": 8500.5
+    }
+  ]
+}
